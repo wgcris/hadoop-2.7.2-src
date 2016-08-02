@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/root/hadoop-2.7.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/target/test-dir"/>
+  <mkdir dir="/root/hadoop-2.7.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/target/test-dir"/>
+</target>
+</project>

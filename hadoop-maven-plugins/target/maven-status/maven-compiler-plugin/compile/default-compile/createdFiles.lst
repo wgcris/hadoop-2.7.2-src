@@ -1,0 +1,8 @@
+org/apache/hadoop/maven/plugin/versioninfo/VersionInfoMojo$SCM.class
+org/apache/hadoop/maven/plugin/util/Exec$OutputBufferThread.class
+org/apache/hadoop/maven/plugin/util/Exec.class
+org/apache/hadoop/maven/plugin/util/FileSetUtils.class
+org/apache/hadoop/maven/plugin/versioninfo/VersionInfoMojo$1.class
+org/apache/hadoop/maven/plugin/versioninfo/VersionInfoMojo.class
+org/apache/hadoop/maven/plugin/protoc/ProtocMojo.class
+org/apache/hadoop/maven/plugin/versioninfo/VersionInfoMojo$2.class
